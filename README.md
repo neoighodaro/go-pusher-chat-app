@@ -1,5 +1,5 @@
 # go-pusher-chat-app
-This is a demo of a real-time chat app powered by Go and Pusher Channels. You can read about how it was created on [Pusher's blog.](https://blog.pusher.com/author/neo/)
+This is a demo of a real-time chat app powered by Go and Pusher Channels. You can read about how it was created on [Pusher's blog.](https://pusher.com/tutorials/chat-app-go)
 
 ## Prerequisites
 
